@@ -94,49 +94,7 @@ body:after {
   .form-control:hover, .form-control:active, .form-control:focus {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
-.hover-bg-enlarge {
-  overflow: hidden;
-  position: relative; }
-  @media (max-width: 991.98px) {
-    .hover-bg-enlarge {
-      height: auto !important; } }
-  .hover-bg-enlarge > div {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-    transform: scaleY(1);
-    -webkit-transition: .8s all ease-in-out;
-    -o-transition: .8s all ease-in-out;
-    transition: .8s all ease-in-out; }
-  .hover-bg-enlarge:hover > div, .hover-bg-enlarge:focus > div, .hover-bg-enlarge:active > div {
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2); }
-  @media (max-width: 991.98px) {
-    .hover-bg-enlarge .bg-image-md-height {
-      height: 300px !important; } }
 
-.bg-image {
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed; }
-  .bg-image.overlay {
-    position: relative; }
-    .bg-image.overlay:after {
-      position: absolute;
-      content: "";
-      transform: scaleY(0);
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      z-index: 0;
-      width: 100%;
-      background: rgba(0, 0, 0, 0.7); }
-  .bg-image > .container {
-    position: relative;
-    z-index: 1; }
 
 .site-section {
   padding: 2.5em 0; }
