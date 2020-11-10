@@ -59,11 +59,6 @@ body:after {
     z-index: 999;
     background: rgba(0, 0, 0, 0.2); }
 
-.container {
-  position: relative;
-  max-width: 800px; /* Maximum width */
-  margin: 0 auto; /* Center it */
-}
 
 .container .content {
   position: absolute; /* Position the background text */
