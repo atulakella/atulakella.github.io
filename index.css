@@ -272,10 +272,6 @@
   z-index: 100;
   max-width: 800px;
 }
-.page-image02 {
-  width: 200px;
-  object-fit: cover;
-}
 .page-about-section {
   gap: var(--dl-space-space-threeunits);
   width: 100%;
@@ -304,7 +300,7 @@
   align-items: center;
   justify-content: center;
 }
-.page-image03 {
+.page-image02 {
   width: 350px;
   height: 421px;
   object-fit: cover;
@@ -402,7 +398,7 @@
 .page-features-heading1:active {
   width: auto;
 }
-.page-image04 {
+.page-image03 {
   width: 350px;
   height: 421px;
   object-fit: cover;
@@ -610,11 +606,11 @@
   align-items: center;
   flex-direction: column;
 }
-.page-image05 {
+.page-image04 {
   height: 700px;
   object-fit: cover;
 }
-.page-image06 {
+.page-image05 {
   width: 435px;
   object-fit: cover;
 }
@@ -641,11 +637,11 @@
   justify-content: center;
   background-color: #FAE48E;
 }
-.page-image07 {
+.page-image06 {
   width: 200px;
   object-fit: cover;
 }
-.page-image08 {
+.page-image07 {
   height: 330px;
   object-fit: cover;
 }
@@ -656,7 +652,7 @@
   align-items: flex-start;
   flex-direction: row;
 }
-.page-image09 {
+.page-image08 {
   height: 400px;
   object-fit: cover;
 }
@@ -709,7 +705,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.page-image10 {
+.page-image09 {
   width: 314px;
   height: 644px;
   object-fit: cover;
@@ -737,12 +733,12 @@
   flex-direction: row;
   justify-content: center;
 }
-.page-image11 {
+.page-image10 {
   width: 235px;
   height: 100%;
   object-fit: cover;
 }
-.page-image12 {
+.page-image11 {
   height: 330px;
   object-fit: cover;
   margin-right: var(--dl-space-space-fourunits);
@@ -770,7 +766,7 @@
   display: flex;
   flex-direction: column;
 }
-.page-image13 {
+.page-image12 {
   width: 435px;
   object-fit: cover;
 }
@@ -803,7 +799,7 @@
   text-decoration: none;
   background-color: #ffbd39;
 }
-.page-image14 {
+.page-image13 {
   width: 425px;
   height: 378px;
   object-fit: cover;
@@ -998,11 +994,11 @@
     gap: var(--dl-space-space-halfunit);
     align-items: flex-end;
   }
-  .page-image05 {
+  .page-image04 {
     width: 280px;
     height: 400px;
   }
-  .page-image06 {
+  .page-image05 {
     width: 277px;
     height: 460px;
   }
@@ -1015,16 +1011,16 @@
     height: 300px;
     background-color: #000000;
   }
-  .page-image07 {
+  .page-image06 {
     width: 229px;
     height: 100%;
     padding-left: var(--dl-space-space-unit);
   }
-  .page-image08 {
+  .page-image07 {
     width: 260px;
     height: 170px;
   }
-  .page-image09 {
+  .page-image08 {
     width: 255px;
     height: 290px;
   }
@@ -1041,28 +1037,28 @@
     padding-left: var(--dl-space-space-sixunits);
     padding-right: var(--dl-space-space-sixunits);
   }
-  .page-image10 {
+  .page-image09 {
     width: 331px;
     height: 518px;
     align-self: flex-start;
     margin-top: var(--dl-space-space-twounits);
     margin-left: var(--dl-space-space-sixunits);
   }
-  .page-image12 {
+  .page-image11 {
     width: 614px;
   }
   .page-container17 {
     width: 100%;
     height: 363px;
   }
-  .page-image13 {
+  .page-image12 {
     width: 398px;
     height: 231px;
   }
   .page-quote1 {
     padding-top: var(--dl-space-space-sixunits);
   }
-  .page-image14 {
+  .page-image13 {
     width: 376px;
     height: 100%;
   }
@@ -1163,7 +1159,7 @@
   .page-features-heading1 {
     align-self: center;
   }
-  .page-image04 {
+  .page-image03 {
     margin-right: 0px;
   }
   .page-things-section {
@@ -1353,18 +1349,8 @@
     justify-content: center;
   }
   .page-hero-heading3 {
-    height: 263px;
+    height: 100px;
     padding-bottom: var(--dl-space-space-unit);
-  }
-  .page-image02 {
-    left: 0px;
-    right: 0px;
-    bottom: 20px;
-    margin: auto;
-    position: absolute;
-    align-self: center;
-    padding-left: 0px;
-    padding-right: 0px;
   }
   .page-about-section {
     width: 442px;
@@ -1384,7 +1370,7 @@
   .page-features-heading1 {
     align-self: center;
   }
-  .page-image04 {
+  .page-image03 {
     margin-right: 0px;
   }
   .page-text04 {
@@ -1478,11 +1464,11 @@
   .page-column {
     width: 168px;
   }
-  .page-image05 {
+  .page-image04 {
     width: 100%;
     height: 200px;
   }
-  .page-image06 {
+  .page-image05 {
     width: 100%;
     height: 264px;
   }
@@ -1496,16 +1482,16 @@
     width: 110px;
     height: 150px;
   }
-  .page-image07 {
+  .page-image06 {
     width: 182px;
     height: 161px;
     padding-left: var(--dl-space-space-unit);
   }
-  .page-image08 {
+  .page-image07 {
     width: 100%;
     height: 112px;
   }
-  .page-image09 {
+  .page-image08 {
     width: 193px;
     height: 145px;
   }
